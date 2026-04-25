@@ -29,7 +29,7 @@
 
 ## 📫 Contact
 📧 arjunkurimilla9666@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/kurimilla-arjun-tejas-91674828b  
+🔗 LinkedIn: https://linkedin.com/in/kurimilla-arjun-tejas-91674828b
 
 ---
 
