@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Arjun Tejas
 
-<!--
-**arjuntejas/arjuntejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at Vardhaman College of Engineering  
+💻 Interested in Web Development & Machine Learning  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 💻 Java, Python  
+- 🌐 HTML, CSS, JavaScript  
+- 🧠 Machine Learning (Scikit-learn, Pandas)  
+- 🗄️ MySQL, MongoDB  
+- ⚙️ Git, Jenkins, AWS  
+
+---
+
+## 📌 Projects
+🔹 Predictive Healthcare Cost Estimation using Random Forest  
+🔹 Exam Scheduler Assistant  
+🔹 Jenkins CI/CD Project  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=arjuntejas&show_icons=true)
+
+---
+
+## 📫 Contact
+📧 arjunkurimilla9666@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/kurimilla-arjun-tejas-91674828b  
+
+---
+
+⭐ Always learning and improving!
+
