@@ -16,9 +16,7 @@
 ---
 
 ## 📌 Projects
-🔹 Predictive Healthcare Cost Estimation using Random Forest  
-🔹 Exam Scheduler Assistant  
-🔹 Jenkins CI/CD Project  
+🔹 Predictive Healthcare Cost Estimation using Random Forest   
 
 ---
 
