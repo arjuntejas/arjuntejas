@@ -16,7 +16,11 @@
 ---
 
 ## 📌 Projects
-🔹 Predictive Healthcare Cost Estimation using Random Forest   
+
+🔹 **Predictive Healthcare Cost Estimation using Random Forest**  
+🔹 **Intelligent Hospital Resource Planning and Decision Support System**
+
+
 
 ---
 
